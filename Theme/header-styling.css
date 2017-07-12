@@ -1,0 +1,39 @@
+/*This is changing the style of the Header*/
+.gn-menu {
+    padding-bottom: 0px !important;
+}
+
+.gn-menu-main {
+    height: 56px !important;
+}
+
+.gn-menu-wrapper {
+    top: 56px !important;
+}
+
+.menu-toggle .hamburger {
+    position: absolute;
+    margin-left: -20px;
+    top: 12px !important;
+}
+
+.menu-toggle.gn-selected .cross span:nth-child(1) {
+    height: 60% !important;
+}
+
+img.titlelogoclass {
+    max-height: 50px !important;
+    margin-top: 3px !important;
+}
+
+.gn-menu-main .navbar-right {
+    width: auto;
+    line-height: 56px !important;
+}
+
+img.img-circle {
+    vertical-align: inherit;
+    margin-top: 15px !important;
+}
+
+/*End of Header Change*/
