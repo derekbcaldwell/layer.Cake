@@ -37,7 +37,7 @@ img.img-circle {
 }
 
 .mini-nav .content {
-    margin-top: 26px;
+    margin-top: 26px !important;
 }
 
 /*End of Header Change*/
